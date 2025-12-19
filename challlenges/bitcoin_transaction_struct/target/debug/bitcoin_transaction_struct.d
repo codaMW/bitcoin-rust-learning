@@ -1,0 +1,1 @@
+C:\Users\USER\bitcoin-rust-learning\challlenges\bitcoin_transaction_struct\target\debug\bitcoin_transaction_struct.exe: C:\Users\USER\bitcoin-rust-learning\challlenges\bitcoin_transaction_struct\src\main.rs

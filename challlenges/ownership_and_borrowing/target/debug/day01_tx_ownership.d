@@ -1,0 +1,1 @@
+C:\Users\USER\bitcoin-rust-learning\challlenges\ownership_and_borrowing\target\debug\day01_tx_ownership.exe: C:\Users\USER\bitcoin-rust-learning\challlenges\ownership_and_borrowing\src\bin\day01_tx_ownership.rs
